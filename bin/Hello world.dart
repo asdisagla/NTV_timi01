@@ -1,5 +1,5 @@
 void main (){
   print("hello world");
-  String myname = "Asdis Agla" ;
+  String myname = "Asdis" ;
   print("what is my name: $myname");
   }
